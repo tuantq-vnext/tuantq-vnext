@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tuantq-vnext
+- 👀 I’m interested in Kotlin
+- 🌱 I’m currently learning Android Kotlin :D 
+- 💞️ I’m looking to collaborate on Android Academy
+- 📫 Call me: 0386 161 113
